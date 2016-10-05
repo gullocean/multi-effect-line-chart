@@ -1,0 +1,15 @@
+{
+  "name": "multi-effect-line-chart",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
