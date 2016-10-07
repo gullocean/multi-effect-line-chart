@@ -8,3 +8,10 @@
 	/*width: 100px;
 	height: 50px;*/
 }
+
+.axis,
+.axis, .line {
+  fill: none;
+  stroke: #E6E7E8;
+  shape-rendering: crispEdges;
+}

@@ -193,44 +193,20 @@
   },
   {
     "Time": "Wed Aug 31 2016 14:13:00 GMT+0530 (India Standard Time)",
-    "allowed": "760",
-    "blocked": "39",
-    "monitor": "26"
-  },
-  {
-    "Time": "Wed Aug 31 2016 14:14:00 GMT+0530 (India Standard Time)",
-    "allowed": "506",
-    "blocked": "32",
-    "monitor": "26"
-  },
-  {
-    "Time": "Wed Aug 31 2016 14:15:00 GMT+0530 (India Standard Time)",
-    "allowed": "1210",
-    "blocked": "37",
-    "monitor": "24"
-  },
-  {
-    "Time": "Wed Aug 31 2016 14:16:00 GMT+0530 (India Standard Time)",
     "allowed": "985",
     "blocked": "34",
     "monitor": "28"
   },
   {
-    "Time": "Wed Aug 31 2016 14:17:00 GMT+0530 (India Standard Time)",
-    "allowed": "760",
-    "blocked": "39",
-    "monitor": "26"
+    "Time": "Wed Aug 31 2016 14:14:00 GMT+0530 (India Standard Time)",
+    "allowed": "985",
+    "blocked": "34",
+    "monitor": "28"
   },
   {
-    "Time": "Wed Aug 31 2016 14:18:00 GMT+0530 (India Standard Time)",
-    "allowed": "506",
-    "blocked": "32",
-    "monitor": "26"
-  },
-  {
-    "Time": "Wed Aug 31 2016 14:19:00 GMT+0530 (India Standard Time)",
-    "allowed": "1210",
-    "blocked": "37",
-    "monitor": "24"
+    "Time": "Wed Aug 31 2016 14:15:00 GMT+0530 (India Standard Time)",
+    "allowed": "985",
+    "blocked": "34",
+    "monitor": "28"
   }
 ]
