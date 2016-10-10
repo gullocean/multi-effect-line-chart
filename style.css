@@ -1,5 +1,5 @@
 .svg-wrapper {
-	width: 500px;
+	width: 800px;
 	height: 500px;
 	background: grey;
 }
@@ -12,6 +12,6 @@
 .axis,
 .axis, .line {
   fill: none;
-  stroke: #E6E7E8;
+  stroke: green;
   shape-rendering: crispEdges;
 }
